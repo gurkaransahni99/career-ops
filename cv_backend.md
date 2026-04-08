@@ -16,9 +16,9 @@ Backend Engineer with 5+ years building financial infrastructure — exchange en
 ## Technical Skills
 
 - **Languages:** JavaScript (5 years), TypeScript (3 years), Solidity (5 years), Go (1 year)
-- **Backend & Data:** Node.js, PostgreSQL, Kafka, Redis, indexer
-- **AI Frameworks:** LangGraph, LangSmith, n8n, Pinecone
-- **Security:** Vulnerability assessment, fuzzing (Echidna), static analysis (Slither), Tenderly
+- **Backend & Data:** Node.js, PostgreSQL, Kafka, Redis, Kafka, indexer
+- **AI Stack:** LangGraph, LangSmith, n8n, Vector DB, RAG pipelines, MCP
+- **Security & Monitoring:** Prometheus, Grafana, fuzzing (Echidna), static analysis (Slither), Tenderly
 
 ## Experience
 
